@@ -1,0 +1,14 @@
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\bin\Debug\XML_LinQ.exe.config
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\bin\Debug\XML_LinQ.exe
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\bin\Debug\XML_LinQ.pdb
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.csproj.AssemblyReference.cache
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.csproj.SuggestedBindingRedirects.cache
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.AddForm.resources
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.DeleteForm.resources
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.Form1.resources
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.Properties.Resources.resources
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.UpdateForm.resources
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.csproj.GenerateResource.cache
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.csproj.CoreCompileInputs.cache
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.exe
+P:\Computer Engineering\SecondYearCIU\SecondSemester\COMPE 214 VISUAL PROGRAMMING\Applicatons\WindowsForms Applications\XML_LinQ\XML_LinQ\obj\Debug\XML_LinQ.pdb
